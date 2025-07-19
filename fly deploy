@@ -1,0 +1,1 @@
+fly scale memory 2048 -a synergeia-n8n
